@@ -1,4 +1,4 @@
 <?php
- echo "string";
- $str = "nuttapongoo2009@hotmail.com"; 
+ echo "string"; <br>
+ echo = "nuttapongoo2009@hotmail.com"; 
 ?>
